@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="android.graphics.Canvas.drawLine(startX,startY,stopX,stopY,paint)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

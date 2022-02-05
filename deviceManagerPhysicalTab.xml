@@ -1,0 +1,18 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="79acef9" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-02-05T12:13:58.904384900Z" />
+        <name value="Xiaomi Redmi Note 8" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
